@@ -1,2 +1,8 @@
-com/example/Example.class
+com/example/SimpleMCPAgent$WebSearchTool.class
 com/example/SimpleMCPAgent.class
+com/example/SimpleMCPAgent$CalculatorTool.class
+com/example/SimpleMCPAgent$TaskPlannerTool.class
+com/example/Example.class
+com/example/SimpleMCPAgent$Tool.class
+com/example/SimpleMCPAgent$SessionState.class
+com/example/SimpleMCPAgent$Task.class
